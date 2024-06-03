@@ -1,0 +1,15 @@
+{
+  "name": "5-node",
+  "version": "1.0.0",
+  "description": "Atividade semanal LPAR I",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rycardo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
